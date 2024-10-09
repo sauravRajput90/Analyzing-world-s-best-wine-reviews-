@@ -5,7 +5,7 @@ This project aims to explore a dataset of wine reviews to gain insights into the
 
 ### **Dataset Description**  
 The dataset consists of the following columns:  
--__**wine**__: Name of the wine.  
+1.__**wine**__: Name of the wine.  
 winery: Name of the winery.  
 category: Category of the wine (Red or White).  
 designation: Designation of the wine.  
