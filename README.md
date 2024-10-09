@@ -3,19 +3,19 @@
 ## **Project Overview**
 This project aims to explore a dataset of wine reviews to gain insights into the factors influencing wine quality, pricing, and consumer preferences. By conducting data analysis and visualization, we will uncover meaningful patterns and trends within the wine industry.
 
-### **Dataset Description**
-The dataset consists of the following columns:
--__**wine**__: Name of the wine.
-winery: Name of the winery.
-category: Category of the wine (Red or White).
-designation: Designation of the wine.
-varietal: Type of grape used.
-appellation: Geographic origin of the wine.
-alcohol: Alcohol content percentage.
-price: Price of the wine in USD.
-rating: Rating of the wine.
-reviewer: Name of the reviewer.
-review: Text review of the wine.
+### **Dataset Description**  
+The dataset consists of the following columns:  
+-__**wine**__: Name of the wine.  
+winery: Name of the winery.  
+category: Category of the wine (Red or White).  
+designation: Designation of the wine.  
+varietal: Type of grape used.  
+appellation: Geographic origin of the wine.  
+alcohol: Alcohol content percentage.  
+price: Price of the wine in USD.  
+rating: Rating of the wine.  
+reviewer: Name of the reviewer.  
+review: Text review of the wine.  
 
 Analysis Questions
 Number of Wines by Category:
